@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/iit_\/iit_tryout1\/starterkit"
+                 "value":"starterkit"
                 }],
          "type":"tilelayer",
          "visible":true,
